@@ -1,6 +1,7 @@
 # DwCrmAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+The backend part is on the project https://github.com/GSerhan/user-list-java-API.git
 
 ## Development server
 
